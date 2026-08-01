@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=sanskar-sol&show_icons=true&locale=en&layout=compact" alt="sanskar-sol" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api?username=sanskar-sol&rank_icon=github&custom_title=Huh%3F&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=sanskar-sol&rank_icon=github&custom_title=Huh%3F&show_icons=true&include_all_commits=true&theme=dark" alt="sanskar-sol" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=sanskar-sol&show_icons=true&locale=en" alt="sanskar-sol" /></p>
 
