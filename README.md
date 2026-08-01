@@ -22,9 +22,6 @@
 
 <p><img align="left" src="https://github-stats-extended.vercel.app/api?username=sanskar-sol&rank_icon=github&custom_title=Huh%3F&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=sanskar-sol&rank_icon=github&custom_title=Huh%3F&show_icons=true&include_all_commits=true&theme=dark" alt="sanskar-sol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=sanskar-sol&show_icons=true&locale=en" alt="sanskar-sol" /></p>
-
-
 
 <!--
 **sanskar-sol/sanskar-sol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
