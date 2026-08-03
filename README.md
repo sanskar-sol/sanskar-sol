@@ -1,4 +1,5 @@
 
+
 # Hi 👋, I'm Sanskar 
 
 ### A CSE undergrad who likes to tinker with stuff
@@ -8,6 +9,8 @@
 - 💬 Ask me about **Nothing :(**
 
 - 📫 How to reach me **sanskarvirat3gmail.com**
+
+<div align="center">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -26,9 +29,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanskar-sol/sanskar-sol/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 <p><img align="center" src="https://github-stats-extended.vercel.app/api?username=sanskar-sol&rank_icon=github&custom_title=Huh%3F&show_icons=true&include_all_commits=true&theme=dark" alt="sanskar-sol" /></p>
-
-
+<div>
 <!--
 **sanskar-sol/sanskar-sol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
