@@ -4,6 +4,9 @@
 
 ### A CSE undergrad who likes to tinker with stuff
 
+<img width="729" height="410" alt="1000033232" src="https://github.com/user-attachments/assets/dbbae652-3fe0-403d-80c5-4694a502a637" />
+
+
 - 🌱 I'm currently learning **C++ and DSA**
 
 - 💬 Ask me about **Nothing :(**
