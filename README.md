@@ -1,17 +1,16 @@
+# Hi 👋, I'm Sanskar Virat
 
+### A 2nd-year CSE undergrad exploring software development and algorithms
 
-# Hi 👋, I'm Sanskar 
+I'm a Computer Science Engineering student focusing on problem-solving, algorithms, and building logical systems. I enjoy working on interesting projects and continuously learning new technologies to improve my coding skills.
 
-### A CSE undergrad who likes to tinker with stuff
+- 🔭 **Currently focusing on:** Building solid foundations in software engineering and data structures.
+- 🌱 **Currently learning:** **C++ and DSA**.
+- 💻 **Recent work:** A **Conway's Game of Life** simulation built with Python and Pygame.
+- 💬 **Ask me about:** **Conway's Game of Life**, cellular automata, Python, or what I am currently learning.
+- 📫 **How to reach me:** [sanskarvirat3@gmail.com](mailto:sanskarvirat3@gmail.com)
 
-<!-- <img width="729" height="410" alt="1000033232" src="https://github.com/user-attachments/assets/dbbae652-3fe0-403d-80c5-4694a502a637" /> -->
-
-
-- 🌱 I'm currently learning **C++ and DSA**
-
-- 💬 Ask me about **Nothing :(**
-
-- 📫 How to reach me **sanskarvirat3gmail.com**
+<br>
 
 <div align="center">
 
@@ -24,7 +23,13 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a></p>
+<p align="center"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanskar-sol/sanskar-sol/output/github-contribution-grid-snake-dark.svg">
@@ -32,20 +37,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanskar-sol/sanskar-sol/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
 
 <p><img align="center" src="https://github-stats-extended.vercel.app/api?username=sanskar-sol&rank_icon=github&custom_title=Huh%3F&show_icons=true&include_all_commits=true&theme=dark" alt="sanskar-sol" /></p>
-<div>
-<!--
-**sanskar-sol/sanskar-sol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
